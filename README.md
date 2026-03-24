@@ -76,3 +76,6 @@ expense-tracker/
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b938b0e-8b5b-48c9-8b7f-ddfeea3060d2" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-25 022233" src="https://github.com/user-attachments/assets/338b5027-87ca-4801-b03b-b7c3a710f6b4" />
+
